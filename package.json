@@ -1,7 +1,7 @@
 {
 	"name": "@mmstudio/aw000002",
 	"version": "1.0.0",
-	"description": "",
+	"description": "通用接口",
 	"scripts": {
 		"test": "npm run build && karma start --single-run",
 		"watch": "tsc -w & karma start",
